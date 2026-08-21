@@ -1,0 +1,10 @@
+﻿# ---- Siemens TIA Portal working files ----
+TMP/
+Logs/
+IM/SearchIndex/
+System/PEData.plf
+System/PEData.idx
+*.pma*
+~$*
+Thumbs.db
+desktop.ini
